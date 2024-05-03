@@ -1,11 +1,11 @@
 ---
 title: "Civic, Citizen and Grassroots Science: Towards a Transformative Scientific Research Model"
 authors:
-- Don Blair
+- "Don Blair"
 - admin
-- Shannon Dosemagen
-- Mathew Lippincott
-- Liz Barry
+- "Shannon Dosemagen"
+- "Mathew Lippincott"
+- "Liz Barry"
 author_notes:
 # - "Equal contribution"
 # - "Equal contribution"
@@ -24,7 +24,7 @@ publication_types: ["chapter"]
 publication: "*Accountability Technologies: Tools for Asking Hard Questions*"
 publication_short: "Accountability Technologies"
 
-# abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: "All of the tools and practices highlighted in this volume focus on effective ways of investigating, drawing conclusions about, and making a convincing case to others regarding the state of the world. This process can roughly be categorized into three parts-- question formation, data collection, and interpretation. Ultimately, these categories aren’t very strict, and are always interwoven. Scientific research predominantly proceeds through a complex, iterative, nonlinear mix of hypothesis generation, data acquisition, and analysis; attempts to isolate “raw data,” for example, inevitably require specifying a model of the world, and particular choices about what does and doesn’t count as “legitimate” or “useful” data. In this chapter, we focus on the approach taken by Public Laboratory -- both philosophically and through the lens of a particular case study and its creation of accountability and action for environmental engagement. We’ll address the questions of: “Why is data being collected?” (question formation); “How is it being collected?” (data collection); and “Who is using the data?” (interpretation) for both traditional scientific research, emerging research methodologies, and Public Lab in theory and in practice. The case study examined in this chapter is Public Lab’s second longest running project, which addresses resident concerns around the Gowanus Canal EPA Superfund Site in Brooklyn, New York. Launched in the winter of 2011, the project, GLAM (Gowanus Low Altitude Mapping) is in collaboration with the community groups Gowanus Canal Conservancy and the Gowanus Dredgers Canoe Club."
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
