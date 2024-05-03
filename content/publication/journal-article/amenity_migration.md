@@ -2,8 +2,8 @@
 title: "No (Back)Sliding: Amenity Migration, Viewsheds, and Contesting Steep Slope Ordinances in Western North Carolina"
 authors:
 - admin
-- Patrick Hurley
-- Laura Taylor
+- "Patrick Hurley"
+- "Laura Taylor"
 author_notes:
 # - "Equal contribution"
 # - "Equal contribution"
