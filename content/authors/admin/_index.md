@@ -25,9 +25,8 @@ organizations:
     url: https://www.american.edu
 
 # Short bio (displayed in user profile at end of posts)
-bio: 
+bio: My research interests include digital and urban geographies, civic engagement and critical mapping.
 
-My research interests include digital and urban geographies, civic engagement and critical mapping.
 # Interests to show in About widget
 interests:
   - Digital Geographies
