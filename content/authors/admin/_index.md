@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Program Director, Geospatial Research Support
+role: Program Director for Geospatial Research Support
 
 # Organizations/Affiliations to show in About widget
 organizations:
