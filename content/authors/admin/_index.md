@@ -24,7 +24,7 @@ role: |
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: American University
-    url: https://www.american.edu/profiles/staff/jbreen.cfm#profile-teaching
+    url: https://www.american.edu/profiles/staff/jbreen.cfm
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include digital and urban geographies, civic engagement and critical mapping.
