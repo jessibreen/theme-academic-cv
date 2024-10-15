@@ -17,12 +17,14 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Program Director for Geospatial Research Support
+role: |
+    Program Director
+    Geospatial Research Support
 
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: American University
-    url: https://www.american.edu
+    url: https://www.american.edu/profiles/staff/jbreen.cfm#profile-teaching
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include digital and urban geographies, civic engagement and critical mapping.
@@ -102,9 +104,9 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: '/#contact'
+  # - icon: envelope
+  #   icon_pack: fas
+  #   link: '/#contact'
   # - icon: twitter
   #   icon_pack: fab
   #   link: https://twitter.com/GeorgeCushen
